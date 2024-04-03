@@ -1,0 +1,6 @@
+---
+# Include the 'k3s-post` role from GitHub
+- src: git@github.com:crazyelectron-io/role-k3s_post.git
+  scm: git
+  version: main
+  name: k3s-post
